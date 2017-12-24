@@ -1,6 +1,5 @@
-# bolsas
-
-> Mural de Bolsas, utilizando Vue.
+Test repo for bug report on uglifyjs-webpack-plugin.
+https://github.com/webpack-contrib/uglifyjs-webpack-plugin/issues/197
 
 ## Build Setup
 
